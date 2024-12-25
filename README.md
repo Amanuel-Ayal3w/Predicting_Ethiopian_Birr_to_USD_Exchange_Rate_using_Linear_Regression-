@@ -1,1 +1,0 @@
-# Predicting_Ethiopian_Birr_to_USD_Exchange_Rate_using_Linear_Regression-
